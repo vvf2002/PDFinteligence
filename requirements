@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+openai
+pandas
+pdfminer.six
+pdfplumber
+faiss-cpu
